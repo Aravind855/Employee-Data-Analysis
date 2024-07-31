@@ -1,0 +1,163 @@
+Cost Center,Emp ID Number,Name,Gender,Department,Salary,Start Date,FTE,Employee type,City,Country,Full / Part Time
+TN,1912, Fred Dudeney,Male,Services,88689.09,02-10-2019,1,Permanent,Seattle, USA,Full Time
+PR,882, Joaquin McVitty,Male,Accounting,52963.65,02-04-2021,0.3,Permanent,Columbus, USA,Part Time
+SQ,1637, Kath Bletsoe,Male,Sales,68860.4,12-02-2019,0.4,Permanent,Columbus, USA,Part Time
+PR,3980, Leena Bruckshaw,Male,Marketing,65699.02,30-04-2020,1,Permanent,Columbus, USA,Full Time
+SQ,612, Louise Lamming,Male,Research and Development,74279.01,01-01-2019,1,Permanent,Wellington, New Zealand,Full Time
+SQ,2223, Rey Chartman,Female,Accounting,44845.33,26-06-2018,1,Permanent,Seattle, USA,Full Time
+TN,4265, Wyn Treadger,Female,Training,93964.3,15-09-2021,0.4,Fixed Term,Hyderabad, India,Part Time
+PR,4473, Yves Pawlik,Female,Business Development,69192.85,19-04-2021,1,Permanent,Columbus, USA,Full Time
+TN,1701,Abigael Basire,Male,Accounting,57925.91,17-04-2019,0.5,Permanent,Wellington, New Zealand,Part Time
+VT,1703,Addi Studdeard,Male,Engineering,61624.77,26-11-2018,0.3,Fixed Term,Hyderabad, India,Part Time
+PR,1383,Adela Dowsett,Female,Product Management,72502.61,08-02-2021,1,Permanent,Wellington, New Zealand,Full Time
+VT,1101,Adey Ryal,Male,Support,95017.1,02-07-2018,1,Fixed Term,Seattle, USA,Full Time
+VT,476,Adolph McNalley,Male,Product Management,89960.6,19-02-2019,1,Fixed Term,Auckland, New Zealand,Full Time
+PR,1346,Adrianne Gave,Male,Business Development,85918.61,05-02-2018,1,Permanent,Columbus, USA,Full Time
+VT,687,Aileen McCritchie,Male,Engineering,78443.78,14-05-2019,1,Fixed Term,Hyderabad, India,Full Time
+TN,1876,Aldrich  Glenny,Male,Business Development,80169.42,10-08-2020,1,Permanent,Auckland, New Zealand,Full Time
+TN,1876,Aldrich Glenny,Male,Business Development,80169.42,10-08-2020,1,Permanent,Auckland, New Zealand,Full Time
+SQ,2559,Alexandros Rackley,Male,Business Development,90884.32,27-12-2019,1,Permanent,Columbus, USA,Full Time
+SQ,2559,Alexis Gotfrey,Male,Business Development,90884.32,27-12-2019,1,Permanent,Columbus, USA,Full Time
+TN,2204,Alic Bagg,Male,Business Development,90884.32,27-07-2020,0.5,Permanent,Columbus, USA,Part Time
+SQ,3546,Alicea Pudsall,Female,Legal,75733.74,05-07-2021,1,Permanent,Hyderabad, India,Full Time
+VT,2491,Alida Welman,Male,Engineering,114465.93,10-07-2018,1,Temporary,Wellington, New Zealand,Full Time
+VT,3421,Aloise MacCathay ,Male,Legal,113747.56,15-03-2021,0.7,Temporary,Columbus, USA,Part Time
+VT,3421,Althea  Bronger,Male,Legal,113747.56,15-03-2021,0.7,Temporary,Columbus, USA,Part Time
+TN,1028,Aluin Churly,Male,Accounting,67633.85,28-08-2018,1,Permanent,Columbus, USA,Full Time
+SQ,2371,Alyosha Riquet,Male,Human Resources,69862.38,24-12-2018,1,Permanent,Wellington, New Zealand,Full Time
+PR,2288,Anjanette Ferre,Male,Product Management,104335.04,13-02-2020,1,Permanent,Columbus, USA,Full Time
+VT,2319,Anjela Spancock,Female,Research and Development,96555.53,24-01-2019,0.2,Temporary,Hyderabad, India,Part Time
+SQ,498,Ansley Gounel,Female,Legal,111049.84,16-07-2021,1,Permanent,Wellington, New Zealand,Full Time
+TN,2496,Antonetta  Coggeshall,Other,Human Resources,67957.9,26-11-2018,1,Permanent,Chennai, India,Full Time
+SQ,914,Barbara-anne Kenchington,Female,Product Management,38438.24,11-05-2020,1,Permanent,Chennai, India,Full Time
+SQ,914,Bari Toffano,Female,Product Management,38438.24,11-05-2020,1,Permanent,Chennai, India,Full Time
+TN,2674,Barr Faughny,Male,Sales,96753.78,25-10-2021,1,Permanent,Auckland, New Zealand,Full Time
+TN,2674,Bendite  Bloan,Male,Sales,96753.78,25-10-2021,1,Permanent,Auckland, New Zealand,Full Time
+PR,95,Bernie Gorges,Female,Business Development,70649.46,13-01-2020,1,Permanent,Hyderabad, India,Full Time
+VT,1684,Beryl Burnsyde,Female,Training,101187.36,07-06-2018,1,Fixed Term,Columbus, USA,Full Time
+TN,4058,Brad Gumb,Male,Product Management,106775.14,08-04-2019,1,Fixed Term,Hyderabad, India,Full Time
+TN,4058,Brendan  Edgeller,Male,Product Management,106775.14,08-04-2019,1,Fixed Term,Hyderabad, India,Full Time
+SQ,1283,Brose MacCorkell,Female,Marketing,68008.55,19-08-2020,1,Permanent,Auckland, New Zealand,Full Time
+PR,770,Camilla Castle,Male,Legal,29774.76,01-10-2020,1,Permanent,Wellington, New Zealand,Full Time
+PR,3844,Caron Kolakovic,Female,Human Resources,35943.62,04-09-2020,1,Permanent,Columbus, USA,Full Time
+VT,4905,Carry Loblie,Female,Human Resources,29808.07,10-07-2018,0.3,Temporary,Hyderabad, India,Part Time
+SQ,960,Charmane Heistermann,Female,Research and Development,44447.26,16-01-2020,0.4,Permanent,Seattle, USA,Part Time
+SQ,2638,Cletus McGarahan ,Male,Marketing,89605.13,07-06-2018,1,Permanent,Seattle, USA,Full Time
+TN,735,Collen Dunbleton,Male,Support,59258.19,18-12-2018,0.8,Permanent,Seattle, USA,Part Time
+TN,735,Collin Jagson,Male,Support,59258.19,18-12-2018,0.8,Permanent,Seattle, USA,Part Time
+SQ,22,Crawford Scad,Male,Business Development,110042.37,24-03-2020,1,Permanent,Columbus, USA,Full Time
+VT,4467,Daisie Dahlman,Female,Marketing,70755.5,16-09-2020,0.8,Temporary,Hyderabad, India,Part Time
+PR,4366,Danica Nayshe,Female,Sales,47551.89,03-01-2019,1,Permanent,Auckland, New Zealand,Full Time
+TN,1281,Dayle O'Luney,Female,Engineering,114425.19,27-01-2020,1,Permanent,Wellington, New Zealand,Full Time
+SQ,144,Dean Biggam,Male,Engineering,118976.16,16-10-2020,1,Permanent,Wellington, New Zealand,Full Time
+SQ,4665,Debera Gow ,Male,Services,100424.23,02-12-2019,1,Permanent,Auckland, New Zealand,Full Time
+TN,3331,Dell Molloy,Male,Human Resources,72876.91,27-05-2019,0.4,Fixed Term,Auckland, New Zealand,Part Time
+PR,2603,Dennison Crosswaite,Female,Human Resources,61994.76,25-11-2019,0.3,Permanent,Hyderabad, India,Part Time
+PR,893,Desi Peniman,Male,Human Resources,50310.09,30-03-2021,0.4,Permanent,Hyderabad, India,Part Time
+PR,3158,Devinne Tuny,Female,Services,89690.38,16-04-2018,1,Permanent,Wellington, New Zealand,Full Time
+SQ,841,Doe Clubley,Female,Services,89690.38,23-04-2018,1,Permanent,Hyderabad, India,Full Time
+TN,3068,Dulce Colbeck,Male,Business Development,39784.24,31-12-2018,1,Fixed Term,Chennai, India,Full Time
+SQ,2051,Dulsea Folkes,Male,Legal,0,23-09-2021,1,Permanent,Chennai, India,Full Time
+VT,740,Easter Pyke,Female,Research and Development,46751.7,13-01-2020,1,Fixed Term,Hyderabad, India,Full Time
+TN,890,Edd  MacKnockiter,Female,Training,71570.99,22-02-2021,0.5,Permanent,Hyderabad, India,Part Time
+TN,3032,Edi  Hofton,Female,Research and Development,39700.82,07-01-2021,0.8,Permanent,Chennai, India,Part Time
+TN,3032,Egor Minto,Female,Research and Development,39700.82,07-01-2021,0.8,Permanent,Chennai, India,Part Time
+SQ,1395,Enoch Dowrey,Male,Legal,90697.67,25-01-2021,0.8,Permanent,Seattle, USA,Part Time
+TN,4775,Erin Androsik,Female,Legal,31089.22,07-11-2019,1,Fixed Term,Chennai, India,Full Time
+VT,2539,Estell Kingsland,Male,Engineering,39969.72,10-12-2018,1,Temporary,Columbus, USA,Full Time
+VT,3993,Ewart Hovel,Male,Human Resources,83396.5,30-03-2021,1,Temporary,Auckland, New Zealand,Full Time
+TN,727,Fanchon Furney,Female,Services,42161.77,29-01-2019,1,Permanent,Auckland, New Zealand,Full Time
+SQ,3626,Faun Rickeard,Female,Training,95677.9,19-07-2021,0.3,Permanent,Chennai, India,Part Time
+PR,3886,Felice McMurty,Male,Accounting,119022.49,23-08-2021,1,Permanent,Auckland, New Zealand,Full Time
+VT,3704,Fonzie O'Shea ,Other,Legal,63447.07,13-11-2020,1,Temporary,Wellington, New Zealand,Full Time
+PR,2010,Frasier Straw,Male,Product Management,115191.38,22-06-2020,1,Permanent,Hyderabad, India,Full Time
+PR,1269,Freddy Linford,Female,Engineering,97105.19,17-08-2021,1,Permanent,Columbus, USA,Full Time
+PR,1211,Gavan Puttan,Male,Accounting,91645.04,27-01-2021,1,Permanent,Auckland, New Zealand,Full Time
+PR,1943,Genevra Friday,Male,Human Resources,48525.71,13-06-2018,1,Permanent,Hyderabad, India,Full Time
+PR,3034,Giffer Berlin,Male,Sales,32192.15,04-10-2021,1,Permanent,Hyderabad, India,Full Time
+VT,2417,Gilda Richen,Male,Support,61214.26,12-03-2018,1,Temporary,Auckland, New Zealand,Full Time
+PR,2321,Gilles Jaquet,Female,Services,81897.79,15-02-2018,1,Permanent,Auckland, New Zealand,Full Time
+VT,4093,Ginger  Myott,Female,Training,116767.63,28-04-2020,0.4,Temporary,Chennai, India,Part Time
+VT,4093,Giselbert Newlands,Female,Training,116767.63,28-04-2020,0.4,Temporary,Chennai, India,Part Time
+PR,2140,Gradey Litton,Male,Accounting,95954.02,12-04-2019,0.3,Permanent,Hyderabad, India,Part Time
+SQ,1026,Grady Rochelle,Male,Product Management,74924.65,12-02-2021,1,Permanent,Hyderabad, India,Full Time
+SQ,3350,Granny Spencelayh,Female,Product Management,66865.49,18-02-2019,1,Permanent,Seattle, USA,Full Time
+SQ,3350,Grazia Bunkle,Female,Product Management,66865.49,18-02-2019,1,Permanent,Seattle, USA,Full Time
+VT,3500,Grier Kidsley,Male,Support,37062.1,10-06-2021,1,Temporary,Chennai, India,Full Time
+SQ,1697,Hali Behnecke,Male,Business Development,71371.37,19-10-2018,1,Permanent,Hyderabad, India,Full Time
+SQ,3491,Hephzibah Summerell,Female,Sales,102129.37,19-07-2021,1,Permanent,Columbus, USA,Full Time
+VT,1803,Hinda Label ,Female,Training,93128.34,05-03-2018,1,Fixed Term,Seattle, USA,Full Time
+PR,1055,Hobie Stockbridge,Male,Accounting,35936.31,21-05-2018,1,Permanent,Chennai, India,Full Time
+PR,1662,Hogan Iles,Female,Research and Development,50449.46,14-11-2018,0.8,Permanent,Auckland, New Zealand,Part Time
+PR,4446,Husein Augar,Female,Research and Development,92336.08,23-08-2021,1,Permanent,Hyderabad, India,Full Time
+SQ,4960,Iain Wiburn,Female,Support,71924.85,23-12-2019,1,Permanent,Chennai, India,Full Time
+VT,1610,Ignacius Losel,Female,Accounting,76303.82,24-12-2018,1,Fixed Term,Hyderabad, India,Full Time
+VT,1610,Inge Creer,Female,Accounting,76303.82,24-12-2018,1,Fixed Term,Hyderabad, India,Full Time
+VT,336,Inger Chapelhow,Male,Services,47646.95,22-11-2019,0.3,Fixed Term,Chennai, India,Part Time
+SQ,2582,Jo-anne Gobeau,Female,Product Management,51798.25,19-07-2019,1,Permanent,Hyderabad, India,Full Time
+VT,1996,Joyce Leyband,Male,Human Resources,65569.36,12-07-2018,1,Fixed Term,Auckland, New Zealand,Full Time
+TN,4175,Karlen McCaffrey,Female,Human Resources,92704.48,26-11-2018,1,Fixed Term,Columbus, USA,Full Time
+TN,2988,Karyn Creeghan,Male,Engineering,92943.89,10-11-2021,1,Permanent,Hyderabad, India,Full Time
+PR,746,Katya Hundy,Female,Accounting,114177.23,18-03-2020,1,Permanent,Wellington, New Zealand,Full Time
+TN,2883,Kelly Corkitt,Female,Sales,84762.76,20-08-2018,1,Permanent,Hyderabad, India,Full Time
+VT,2663,Konstantin Timblett,Male,Legal,28481.16,01-02-2021,1,Temporary,Chennai, India,Full Time
+TN,1256,Koral Gerriet,Male,Legal,28481.16,26-03-2020,1,Permanent,Hyderabad, India,Full Time
+TN,1256,Larissa Ingledow,Male,Legal,28481.16,26-03-2020,1,Permanent,Hyderabad, India,Full Time
+SQ,3024,Layton Crayden,Female,Services,69057.32,17-10-2018,1,Permanent,Wellington, New Zealand,Full Time
+SQ,3024,Lea Chaplin,Female,Services,69057.32,17-10-2018,1,Permanent,Wellington, New Zealand,Full Time
+SQ,3476,Leonidas Cavaney,Other,Accounting,107107.6,13-08-2018,0.9,Permanent,Chennai, India,Part Time
+PR,2782,Lincoln Cord,Male,Marketing,37362.3,26-06-2019,1,Permanent,Auckland, New Zealand,Full Time
+TN,3575,Lindy Guillet,Female,Research and Development,99683.67,04-02-2019,1,Fixed Term,Seattle, USA,Full Time
+TN,3575,Lion  Adcock,Female,Research and Development,99683.67,04-02-2019,1,Fixed Term,Seattle, USA,Full Time
+TN,328,Lissy McCoy,Female,Engineering,94815.28,06-12-2018,1,Permanent,Seattle, USA,Full Time
+TN,214,Louise Lamming,Female,Training,37902.35,24-12-2019,1,Permanent,Chennai, India,Full Time
+TN,214,Luca Wolstenholme,Female,Training,37902.35,24-12-2019,1,Permanent,Chennai, India,Full Time
+PR,1476,Mabel Orrow,Male,Services,77096.05,27-04-2018,1,Permanent,Chennai, India,Full Time
+TN,258,Mackenzie Hannis,Female,Product Management,68197.9,15-10-2020,1,Permanent,Auckland, New Zealand,Full Time
+SQ,187,Maible Azemar,Female,Services,71229.42,01-12-2020,1,Permanent,Hyderabad, India,Full Time
+VT,3552,Malory Biles,Male,Engineering,36536.26,11-06-2021,1,Temporary,Hyderabad, India,Full Time
+TN,1632,Marissa Infante,Male,Business Development,88511.17,29-04-2020,1,Permanent,Columbus, USA,Full Time
+TN,3210,Maritsa Marusic,Male,Training,79567.69,21-06-2018,1,Fixed Term,Chennai, India,Full Time
+SQ,4613,Marjie Bamford,Female,Human Resources,85264.38,30-04-2018,1,Permanent,Chennai, India,Full Time
+SQ,2565,Marline Wahncke,Female,Training,56253.81,13-08-2021,1,Permanent,Auckland, New Zealand,Full Time
+TN,1396,Marmaduke Worssam,Male,Support,30077.45,09-01-2019,1,Permanent,Wellington, New Zealand,Full Time
+SQ,1998,Mata Fishley,Male,Product Management,40445.29,16-07-2021,1,Permanent,Chennai, India,Full Time
+SQ,1998,Matias Cormack ,Male,Product Management,40445.29,16-07-2021,1,Permanent,Chennai, India,Full Time
+TN,4067,Melisa Knott,Female,Human Resources,73488.68,15-04-2019,1,Fixed Term,Seattle, USA,Full Time
+VT,3849,Melva  Jickells,Male,Accounting,52246.29,18-04-2019,1,Temporary,Wellington, New Zealand,Full Time
+VT,596,Mendel  Gentsch,Female,Sales,84598.88,12-10-2020,1,Fixed Term,Seattle, USA,Full Time
+VT,596,Michale Rolf,Female,Sales,84598.88,12-10-2020,1,Fixed Term,Seattle, USA,Full Time
+TN,227,Minerva Ricardot,Female,Support,63555.73,24-11-2020,1,Permanent,Chennai, India,Full Time
+PR,576,Myrle Prandoni,Female,Legal,63705.4,05-08-2019,1,Permanent,Hyderabad, India,Full Time
+VT,1323,Nananne Gehringer,Female,Business Development,86233.83,29-08-2019,1,Fixed Term,Chennai, India,Full Time
+TN,2667,Natalee Craiker,Male,Support,0,16-09-2019,0.2,Permanent,Auckland, New Zealand,Part Time
+TN,2749,North Bertomeu,Female,Training,57002.02,02-04-2018,0.7,Permanent,Hyderabad, India,Part Time
+VT,4415,Oby Sorrel,Female,Training,58744.17,12-03-2018,1,Temporary,Columbus, USA,Full Time
+TN,464,Orlando Gorstidge ,Male,Research and Development,52748.63,27-01-2020,1,Permanent,Chennai, India,Full Time
+TN,4101,Pearla  Beteriss,Male,Legal,72843.23,29-06-2018,1,Fixed Term,Wellington, New Zealand,Full Time
+PR,210,Renaldo Thomassin,Female,Legal,0,29-06-2020,1,Permanent,Wellington, New Zealand,Full Time
+VT,1762,Revkah Antonacci,Male,Accounting,102515.81,12-03-2020,1,Fixed Term,Chennai, India,Full Time
+SQ,2246,Rhiamon Mollison,Male,Research and Development,85455.53,09-01-2020,1,Permanent,Wellington, New Zealand,Full Time
+SQ,105,Riccardo Hagan,Female,Training,86010.54,05-03-2018,1,Permanent,Chennai, India,Full Time
+TN,2397,Rodina Drinan,Male,Human Resources,28329.77,29-10-2018,1,Permanent,Seattle, USA,Full Time
+SQ,2525,Shantee  D'Antonio,Male,Engineering,50855.53,25-01-2021,1,Permanent,Wellington, New Zealand,Full Time
+TN,2205,Sidoney Yitzhok,Male,Research and Development,69709.51,07-01-2019,1,Permanent,Hyderabad, India,Full Time
+PR,4601,Stan  Tolliday,Other,Support,104802.63,02-11-2021,1,Permanent,Hyderabad, India,Full Time
+VT,4681,Tabby  Astall,Female,Product Management,110906.35,30-11-2018,1,Temporary,Wellington, New Zealand,Full Time
+SQ,2643,Tadio  Dowdle,Female,Engineering,88425.08,16-07-2019,1,Permanent,Hyderabad, India,Full Time
+PR,3137,Tadio Audritt,Male,Support,36714.38,10-12-2020,1,Permanent,Chennai, India,Full Time
+VT,3298,Tallie Chaikovski,Male,Engineering,82239.53,16-01-2020,1,Temporary,Columbus, USA,Full Time
+SQ,2703,Tammi Lackham,Female,Marketing,104903.79,03-07-2019,1,Permanent,Chennai, India,Full Time
+SQ,2424,Thekla Lynnett,Male,Accounting,52270.22,25-02-2019,0.3,Permanent,Chennai, India,Part Time
+VT,3988,Theresita Chasmer,Female,Support,58935.92,09-09-2019,1,Temporary,Hyderabad, India,Full Time
+PR,4686,Thorvald Milliken,Female,Business Development,88360.79,02-09-2019,1,Permanent,Seattle, USA,Full Time
+SQ,360,Torrance  Collier,Male,Marketing,40753.54,21-02-2018,0.6,Permanent,Wellington, New Zealand,Part Time
+PR,1306,Tristam Cuming,Male,Services,84742.86,24-09-2020,1,Permanent,Auckland, New Zealand,Full Time
+SQ,4934,Van Tuxwell,Male,Engineering,0,11-01-2021,0.7,Permanent,Seattle, USA,Part Time
+TN,579,Vaughn Carvill,Female,Services,109163.39,07-07-2020,0.8,Permanent,Seattle, USA,Part Time
+VT,2260,Violante Courtonne,Female,Research and Development,59434.18,10-04-2020,1,Temporary,Seattle, USA,Full Time
+SQ,1177,Vlad Strangeway,Male,Human Resources,86556.96,30-09-2020,1,Permanent,Hyderabad, India,Full Time
+VT,3701,Wald Bountiff,Female,Product Management,89829.33,25-11-2019,1,Temporary,Chennai, India,Full Time
+SQ,3387,Westbrook Brandino,Female,Human Resources,100731.95,15-04-2020,1,Permanent,Auckland, New Zealand,Full Time
+VT,534,Yvette  Bett,Male,Sales,91314.75,10-04-2020,1,Fixed Term,Seattle, USA,Full Time
+TN,3355,Zach Polon,Male,Research and Development,78705.93,05-11-2018,1,Fixed Term,Seattle, USA,Full Time
